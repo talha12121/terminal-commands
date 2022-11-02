@@ -199,5 +199,16 @@ sudo apt-get install dotnet-sdk-5.0
 
 dotnet --version
 
+##Surge Command
+
+first download 
+
+ npm install --global surge
+ 
+ go to your project directory and run
+ 
+ surge
+
+
 
 
