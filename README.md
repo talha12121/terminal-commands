@@ -199,7 +199,7 @@ sudo apt-get install dotnet-sdk-5.0
 
 dotnet --version
 
-##Surge Command
+## Surge Command 
 
 first download 
 
@@ -208,6 +208,8 @@ first download
  go to your project directory and run
  
  surge
+
+
 
 
 
